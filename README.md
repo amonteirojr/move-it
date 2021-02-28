@@ -24,7 +24,7 @@ MoveIt
 
 ## Features
 
-This app features all the latest tools and practices in mobile development!
+This app features all the latest tools and practices in web development!
 
 - 🟩 **NextJs**
 - ⚛️ **ReactJs**
