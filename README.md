@@ -1,6 +1,10 @@
-<h1 align="center">MoveIt</h1>
-
-<img src="https://raw.githubusercontent.com/amonteirojr/move-it/main/public/favicon.png" />
+<h1 align="center">
+<br>
+  <img src='https://raw.githubusercontent.com/amonteirojr/move-it/main/public/favicon.png' alt='MoveIt' />
+<br>
+<br>
+MoveIt
+</h1>
 
 <p align="center">This repo contains an application created to help people being healthy while working in front a computer.</p>
 
